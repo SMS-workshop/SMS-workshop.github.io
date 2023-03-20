@@ -73,18 +73,18 @@ The M3 workshop aims at bringing together researchers from different fields (e.g
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="">
+<a href="https://kdd.isti.cnr.it/people/morini-virginia">
   <img src="assets/custom_images/morini.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Virginia Morini</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="">
+<a href="http://pages.di.unipi.it/citraro/">
   <img src="assets/custom_images/citraro.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Salvatore Citraro</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
 </div>
 
