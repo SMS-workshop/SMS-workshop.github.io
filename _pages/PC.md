@@ -20,7 +20,6 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Andrea Failla, Università di Pisa, Italy</li>
     <li>Katherine Abramski, Università di Pisa, Italy</li>
     <li>Luca Pappalardo, CNR-ISTI, Italy</li>
-    <li>Francesco Ricci, Università di Pisa, Italy</li>
     <li>Letizia Milli, Università di Pisa, Italy</li>
     <li>...</li>
 </ul>
