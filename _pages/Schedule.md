@@ -19,13 +19,14 @@ In case of a full day event (at least 10 accepted papers), M3 will be roughly or
 
 | Time          | Activity                 |
 |---------------|--------------------------|
-| 9:00 - 9:30   | Welcome and Introduction |
-| 9:30 - 10:30  | Keynote 1                |
+| 09:00 - 09:30 | Welcome and Introduction |
+| 09:30 - 10:30 | Keynote 1                |
 | 10:30 - 12:00 | Session 1                |
 | 12:00 - 13:00 | Launch Break             |
 | 13:00 - 14:00 | Keynote 2                |
 | 14:30 - 16:00 | Session 2                |
 | 16:00 - 16:30 | Closing Remarks          |
+
 
 The morning and afternoon sessions will accomodate both oral and poster presentations.
 
