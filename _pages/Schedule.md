@@ -33,9 +33,9 @@ The morning and afternoon sessions will accomodate both oral and poster presenta
 
 ---
 
-### Invited Speakers
+### Keynote Speakers
 
-Invited speakers will give talks on different facets of M3 multidisciplinary research. 
+Keynote speakers will give talks on different facets of M3 multidisciplinary research. 
 
 In particular, M3 workshop aims at selecting two contribution focusing on: 
 - methodological/technical advances in mining and analysing social media data, and
