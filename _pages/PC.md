@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-Do you want to join the program committee? Please contact us!
+Do you want to join the program committee? Please <a href="mailto:mind-meets-media-workshop@googlegroups.com
+">contact us</a>!
 {: .alert .alert-warning}
 
 <hr>
