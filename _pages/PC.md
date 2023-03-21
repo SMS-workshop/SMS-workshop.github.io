@@ -13,6 +13,13 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
 
 <hr>
 
-TBD
+<ul>
+    <li>Rémy Cazabet, University of Lyon, France</li>
+    <li>Massimo Stella, Università di Trento, Italy</li>
+    <li>Valentina Pansanella, Scuola Normale Superiore, Italy</li>
+    <li>Andrea Failla, Università di Pisa, Italy</li>
+    <li>Katherine Abramski, Università di Pisa, Italy</li>
+    <li>...</li>
+</ul>
 
 <hr>
