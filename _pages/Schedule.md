@@ -10,6 +10,7 @@ nav_order: 4
 The workshop will be held on **December 4th, 2023**.
 
 The final schedule and invited keynote speakers will be announced as soon as the review process is completed.
+{: .alert .alert-warning}
 
 ---
 
@@ -27,7 +28,7 @@ In case of a full day event (at least 10 accepted papers), M3 will be roughly or
 | 14:30 - 16:00 | Session 2                |
 | 16:00 - 16:30 | Closing Remarks          |
 
-
+<br/>
 The morning and afternoon sessions will accomodate both oral and poster presentations.
 
 ---
