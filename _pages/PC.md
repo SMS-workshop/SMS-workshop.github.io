@@ -19,6 +19,7 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Valentina Pansanella, Scuola Normale Superiore, Italy</li>
     <li>Andrea Failla, Università di Pisa, Italy</li>
     <li>Katherine Abramski, Università di Pisa, Italy</li>
+    <li>Luca Pappalardo, CNR-ISTI, Italy</li>
     <li>...</li>
 </ul>
 
