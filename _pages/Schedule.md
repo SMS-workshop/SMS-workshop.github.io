@@ -44,4 +44,4 @@ In particular, M3 workshop aims at selecting two contribution focusing on:
 
 Would you like to hear a talk on a specific topic? Do you have the perfect M3 keynote speaker in your mind?  
 <a href="mailto:mind-meets-media-workshop@googlegroups.com">Contact us</a>! We are open your to suggestions!
-{: .alert .alert-warning}
+{: .alert .alert-success}
