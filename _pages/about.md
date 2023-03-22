@@ -60,7 +60,7 @@ The M3 workshop aims at bringing together researchers from different fields (e.g
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
-<div style="width: 100%; padding-left: 25%; text-align: center">
+<div style="width: 100%; padding-left: 20%; text-align: center">
 
 
 
