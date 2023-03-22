@@ -32,20 +32,15 @@ For this reason, fully understanding how online debates, recommendations, and so
 
 The M3 workshop aims at bringing together researchers from different fields (e.g., social sciences, computer science, psychology, sociology, etc.) to discuss the latest advances in the field of social media and human behavior.
 ##### Topics of interest
-<ul>
-<li> <b>Supportive dynamics modeling and analysis</b> (e.g., Social Support and Self Disclosure) </li>
-<li> <b>Polluted dynamics modeling and analysis </b>
-    (e.g., Epistemic Bubbles, M/Disinformation, Polarization) </li>
-<li><b> Users' stance inference, mining and analysis </b>
-    (e.g., sentiment, emotion, opinion) </li>
-<li> <b>Social Perception Bias </b>
-    (e.g., Peer-pressure, Consensus, Uniqueness)  </li>
-<li><b> Feature-rich and/or High-order Social Network Analysis </b> </li>
-<li><b> Homophilic patterns mining </b> </li>
-<li><b> Cognitive Network Science </b> </li>
-<li><b> Data-driven case studies </b> 
-    (e.g., Mental Health, Socio-Political debates) </li>
-</ul>
+
+<b>Supportive dynamics modeling and analysis</b> (e.g., Social Support and Self Disclosure) <br/>
+<b>Polluted dynamics modeling and analysis </b> (e.g., Epistemic Bubbles, M/Disinformation, Polarization) <br/>
+<b> Users' stance inference, mining and analysis </b> (e.g., sentiment, emotion, opinion) <br/>
+<b>Social Perception Bias </b> (e.g., Peer-pressure, Consensus, Uniqueness)  <br/>
+<b> Feature-rich and/or High-order Social Network Analysis </b> <br/>
+<b> Homophilic patterns mining </b> <br/>
+<b> Cognitive Network Science </b> <br/>
+<b> Data-driven case studies </b> (e.g., Mental Health, Socio-Political debates) <br/>
 {: .alert .alert-success}
 
 ##### Important Dates
