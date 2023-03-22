@@ -60,7 +60,7 @@ The M3 workshop aims at bringing together researchers from different fields (e.g
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
-<div style="width: 100%; padding-left: 30%; text-align: center">
+<div style="width: 100%; padding-left: 25%; text-align: center">
 
 
 
@@ -86,6 +86,14 @@ The M3 workshop aims at bringing together researchers from different fields (e.g
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
+  <img src="assets/custom_images/pansanella.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>SNS</p></span>
 </div>
 
 </div>
