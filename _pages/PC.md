@@ -28,7 +28,8 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Matthew DeVerna, Indiana University Bloomington, US</li>
     <li>Michele Coscia,	University of Copenhagen, Denmark</li>
     <li>Yoed Kenett, Israel Institute of Technology, Israel</li>
-    <li>...</li>
+    <li>Szymon Talaga, University of Warsaw, Poland</li>
+    <li>Onur Varol, Sabanci University, Turkey</li>
 </ul>
 
 <hr>
