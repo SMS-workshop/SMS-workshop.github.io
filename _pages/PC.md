@@ -30,6 +30,7 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Yoed Kenett, Israel Institute of Technology, Israel</li>
     <li>Szymon Talaga, University of Warsaw, Poland</li>
     <li>Onur Varol, Sabanci University, Turkey</li>
+    <li>Rajesh Sharma, University of Tartu, Estonia</li>
 </ul>
 
 <hr>
