@@ -21,16 +21,17 @@ social: false  # includes social icons at the bottom of the page
 
 ##### Workshop Description
 Humans, by nature, are said to be social, enthusiastic living beings. 
-Interacting and discussing with people is crucial to them as food, water and shelter are for their survival.
+Interacting and discussing with people is crucial to them as food, water, and shelter are for their survival.
 While face-to-face communication has proven to enhance the quality of a person's life, the effects of online interactions and discussions on individuals and society are more blurred and still widely debated.
 
 The ease of access and ubiquity of online social platforms (OSPs) rapidly changed how we were used to gathering information, discussing, and interacting.
-This novel way of relating with peers, news and ideas has inherited and exacerbated all the human biases typical of offline interaction (e.g., selective exposure, confirmation bias, group bias) as well as coming up with new ones. 
+This novel way of relating with peers, news, and ideas has inherited and exacerbated all the human biases typical of offline interaction (e.g., selective exposure, confirmation bias, group bias) and coming up with new ones. 
 
-Indeed, OSPs play a major role in shaping/affecting individuals' behaviors and mental health (both in positive and negative ways). 
+Indeed, OSPs play a significant role in shaping/affecting individuals' behaviors and mental health (both in positive and negative ways). 
 For this reason, fully understanding how online debates, recommendations, and social interactions impact individuals and society is of utmost importance and represents a hot topic from a highly multidisciplinary point of view.
 
-The M3 workshop aims at bringing together researchers from different fields (e.g., social sciences, computer science, psychology, sociology, etc.) to discuss the latest advances in the field of social media and human behavior.
+The M3 workshop aims to bring together researchers from different fields (e.g., social sciences, computer science, psychology, sociology, etc.) to discuss the latest advances in social media and human behavior.
+
 ##### Topics of interest
 
 <b>Supportive dynamics modeling and analysis</b> (e.g., Social Support and Self Disclosure) <br/>
@@ -44,7 +45,7 @@ The M3 workshop aims at bringing together researchers from different fields (e.g
 {: .alert .alert-success}
 
 ##### Important Dates
-<b>Paper submission:</b> Jul. 1, 2023 <br/>
+<b>Paper submission:</b> Jul. 1, 2023 (submit <a href="https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S">here</a>)<br/>
 <b>Author notification:</b> Sep. 1, 2023 <br/>
 <b>Camera-Ready:</b> Oct. 15, 2023 <br/>
 <b>Registration:</b> Oct. 15, 2023 <br/>

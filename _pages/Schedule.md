@@ -37,11 +37,11 @@ The morning and afternoon sessions will accomodate both oral and poster presenta
 
 Keynote speakers will give talks on different facets of M3 multidisciplinary research. 
 
-In particular, M3 workshop aims at selecting two contribution focusing on: 
-- methodological/technical advances in mining and analysing social media data, and
+In particular, the M3 workshop aims at selecting two contributions focusing on: 
+- methodological/technical advances in mining and analyzing social media data, and
 - psychological/philosophical implications of social behavior modeling and analysis.
 
 
 Would you like to hear a talk on a specific topic? Do you have the perfect M3 keynote speaker in your mind?  
-<a href="mailto:mind-meets-media-workshop@googlegroups.com">Contact us</a>! We are open your to suggestions!
+<a href="mailto:mind-meets-media-workshop@googlegroups.com">Contact us</a>! We are open to suggestions!
 {: .alert .alert-success}
