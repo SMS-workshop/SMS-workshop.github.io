@@ -31,6 +31,9 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Szymon Talaga, University of Warsaw, Poland</li>
     <li>Onur Varol, Sabanci University, Turkey</li>
     <li>Rajesh Sharma, University of Tartu, Estonia</li>
+    <li>Matteo Magnani	University of Uppsala, Sweden</li>
+    <li>Diego R. Amancio, Universitade de Sao Paulo, Brazil</li>
+    <li>Carlos Henrique Gomes Ferreira, Universidade Federal de Ouro Preto, Brazil</li>
 </ul>
 
 <hr>
