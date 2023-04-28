@@ -34,6 +34,7 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Matteo Magnani	University of Uppsala, Sweden</li>
     <li>Diego R. Amancio, Universitade de Sao Paulo, Brazil</li>
     <li>Carlos Henrique Gomes Ferreira, Universidade Federal de Ouro Preto, Brazil</li>
+    <li>Arnab K. Sarker, MIT, USs</li>
 </ul>
 
 <hr>
