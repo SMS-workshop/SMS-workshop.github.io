@@ -53,6 +53,15 @@ The M3 workshop aims to bring together researchers from different fields (e.g., 
 <i>All times are at 11:59PM Beijing Time</i>
 {: .alert .alert-warning}
 ---
+
+<div style="float: none; width: 100%; text-align: center"> 
+    <b>Supporting Research Project</b>
+</div>
+<div style="float: none; width: 100%; text-align: center">
+    <a href="http://sobigdata.eu/"><img src="assets/custom_images/SBD.png" style="width: 350px;"></a>
+</div>
+
+---
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
@@ -92,12 +101,4 @@ The M3 workshop aims to bring together researchers from different fields (e.g., 
   <span style="display: block; margin-top: -10px; text-align: center;"><p>SNS</p></span>
 </div>
 
-</div>
----
-
-<div style="float: none; width: 100%; text-align: center"> 
-    <b>Supporting Research Project</b>
-</div>
-<div style="float: none; width: 100%; text-align: center">
-    <a href="http://sobigdata.eu/"><img src="assets/custom_images/SBD.png" style="width: 300px;"></a>
 </div>
