@@ -93,3 +93,8 @@ The M3 workshop aims to bring together researchers from different fields (e.g., 
 </div>
 
 </div>
+---
+<div style="width: 100%; text-align: center"> 
+<b>Supporting Research Projects</b>
+<a href="http://sobigdata.eu/">"<img src="assets/custom_images/SBD.png" style="width: 300px;></a>
+</div> 
