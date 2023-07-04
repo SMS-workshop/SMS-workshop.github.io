@@ -45,7 +45,7 @@ The M3 workshop aims to bring together researchers from different fields (e.g., 
 {: .alert .alert-success}
 
 ##### Important Dates
-<b>Paper submission:</b> Jul. 1, 2023 (submit <a href="https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S">here</a>)<br/>
+<b>Paper submission:</b> Jul. 15, 2023 (submit <a href="https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S">here</a>)<br/>
 <b>Author notification:</b> Sep. 1, 2023 <br/>
 <b>Camera-Ready:</b> Oct. 15, 2023 <br/>
 <b>Registration:</b> Oct. 15, 2023 <br/>
