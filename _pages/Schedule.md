@@ -40,5 +40,5 @@ In particular, the SMS workshop aims at selecting two contributions focusing on:
 
 
 Would you like to hear a talk on a specific topic? Do you have the perfect SMS keynote speaker in your mind?  
-<a href="mailto:mind-meets-media-workshop@googlegroups.com">Contact us</a>! We are open to suggestions!
+<a href="mailto:giulio.rossetti@isti.cnr.it">Contact us</a>! We are open to suggestions!
 {: .alert .alert-success}
