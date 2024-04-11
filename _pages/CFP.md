@@ -24,7 +24,7 @@ Paper submissions (full, short, and abstract) must use the <a href="http://www.i
 Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page.
 All submissions will be reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
 
-To submit a paper, please use the following <a href="">web portal</a>.
+To submit a paper, please use the following <a href="https://easychair.org/conferences/?conf=sms24">web portal</a>.
 
 
 ## Publication
