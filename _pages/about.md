@@ -9,10 +9,10 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>M3 International Workshop</p>
+    <p>SMS International Workshop</p>
     <p><a href="https://www.cloud-conf.net/icdm2023/">International Conference on Data Mining (ICDM)</a></p>
-    <p>4 December 2023</p>
-    <p>Shanghai, China</p>
+    <p>September 2024</p>
+    <p>Rende, Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -45,12 +45,12 @@ The M3 workshop aims to bring together researchers from different fields (e.g., 
 {: .alert .alert-success}
 
 ##### Important Dates
-<b>Paper submission:</b> Jul. 15, 2023 (submit <a href="https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S">here</a>)<br/>
-<b>Author notification:</b> Sep. 1, 2023 <br/>
-<b>Camera-Ready:</b> Oct. 15, 2023 <br/>
-<b>Registration:</b> Oct. 15, 2023 <br/>
-<b>Conference date:</b> Dec. 1 – Dec. 4, 2023 <br/>
-<i>All times are at 11:59PM Beijing Time</i>
+<b>Paper submission:</b>  <br/>
+<b>Author notification:</b>  <br/>
+<b>Camera-Ready:</b>  <br/>
+<b>Registration:</b>  <br/>
+<b>Conference date:</b>  <br/>
+<i>All times are at 11:59PM CET</i>
 {: .alert .alert-warning}
 ---
 

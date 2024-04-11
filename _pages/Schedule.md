@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-The workshop will be held on **December 4th, 2023**.
+The workshop will be held on **September th, 2024**.
 
 The final schedule and invited keynote speakers will be announced as soon as the review process is completed.
 {: .alert .alert-warning}
@@ -16,28 +16,25 @@ The final schedule and invited keynote speakers will be announced as soon as the
 
 ### Tentative Schedule
 
-In case of a full day event (at least 10 accepted papers), M3 will be roughly organized as follows:
+SMS will be roughly organized as follows:
 
 | Time          | Activity                 |
 |---------------|--------------------------|
 | 09:00 - 09:30 | Welcome and Introduction |
-| 09:30 - 10:30 | Keynote 1                |
-| 10:30 - 12:00 | Session 1                |
-| 12:00 - 13:00 | Launch Break             |
-| 13:00 - 14:00 | Keynote 2                |
-| 14:30 - 16:00 | Session 2                |
-| 16:00 - 16:30 | Closing Remarks          |
+| 09:30 - 10:00 | Keynote                  |
+| 10:00 - 12:30 | Session                  |
+
 
 <br/>
-The morning and afternoon sessions will accomodate both oral and poster presentations.
+The session will accomodate both oral and poster presentations.
 
 ---
 
-### Keynote Speakers
+### Keynote Speaker(s)
 
 Keynote speakers will give talks on different facets of M3 multidisciplinary research. 
 
-In particular, the M3 workshop aims at selecting two contributions focusing on: 
+In particular, the SMS workshop aims at selecting two contributions focusing on: 
 - methodological/technical advances in mining and analyzing social media data, and
 - psychological/philosophical implications of social behavior modeling and analysis.
 

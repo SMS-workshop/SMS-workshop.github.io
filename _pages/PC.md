@@ -21,9 +21,10 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Andrea Failla, Università di Pisa, Italy</li>
     <li>Katherine Abramski, Università di Pisa, Italy</li>
     <li>Massimo Stella, Università di Trento, Italy</li>
-    <li>Matteo Cinelli, Sapienza University of Rome, Italy</li>
-    <li>Alessandro Galeazzi, Università Ca Foscari, Italy</li>
     <li>Luca Pappalardo, CNR-ISTI, Italy</li>
+   <!-- <li>Matteo Cinelli, Sapienza University of Rome, Italy</li>
+    <li>Alessandro Galeazzi, Università Ca Foscari, Italy</li>
+    
     <li>Rémy Cazabet, University of Lyon, France</li>
     <li>Matthew DeVerna, Indiana University Bloomington, US</li>
     <li>Michele Coscia,	University of Copenhagen, Denmark</li>
@@ -34,7 +35,7 @@ Do you want to join the program committee? Please <a href="mailto:mind-meets-med
     <li>Matteo Magnani	University of Uppsala, Sweden</li>
     <li>Diego R. Amancio, Universitade de Sao Paulo, Brazil</li>
     <li>Carlos Henrique Gomes Ferreira, Universidade Federal de Ouro Preto, Brazil</li>
-    <li>Arnab K. Sarker, MIT, USs</li>
+    <li>Arnab K. Sarker, MIT, USs</li> -->
 </ul>
 
 <hr>
