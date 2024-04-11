@@ -54,12 +54,12 @@ In particular,we aim at:
 3. Present Data-Driven Case Studies: By featuring data-driven case studies on topics such as mental health and socio-political debates, the workshop aims to provide concrete examples of how social media influences public opinion, behaviors, and mental health. These case studies will serve as a basis for discussing potential interventions and policy implications.
 
 ##### Important Dates
-<b>Paper submission:</b>  <br/>
-<b>Author notification:</b>  <br/>
-<b>Camera-Ready:</b>  <br/>
+<b>Paper submission:</b>  June 10th, 2024<br/>
+<b>Author notification:</b> July 10th, 2024 <br/>
+<b>Camera-Ready:</b> July 18th, 2024 <br/>
 <b>Registration:</b>  <br/>
-<b>Conference date:</b>  <br/>
-<i>All times are at 11:59PM CET</i>
+<b>Conference date:</b> September 2nd, 2024 <br/>
+<i>All times are at 11:59PM AoE</i>
 {: .alert .alert-warning}
 ---
 

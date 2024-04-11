@@ -11,8 +11,8 @@ nav_order: 2
 
 SMS accepts several types of submissions for review, including:
 
-- Full papers (max 8 pages plus 2 extra pages)
-- Short papers (max 4 pages)
+- Full papers (max 8 pages)
+- Short papers (max 5 pages)
 - Extended Abstract/Posters (max 2 pages)
 
 
@@ -20,8 +20,9 @@ SMS accepts several types of submissions for review, including:
 
 Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop.
 
-Paper submissions (full, short, and abstract) must use the <a href="">IEEE 2-column format</a>, including the bibliography and any possible appendices. 
-All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
+Paper submissions (full, short, and abstract) must use the <a href="http://www.ieee.org/web/publications/pubservices/confpub/AuthorTools/conferenceTemplates.html">IEEE 2-column template</a>, including the bibliography and any possible appendices.
+Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page.
+All submissions will be reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
 
 To submit a paper, please use the following <a href="">web portal</a>.
 
