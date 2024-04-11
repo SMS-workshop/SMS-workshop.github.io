@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>SMS International Workshop</p>
-    <p><a href="https://www.cloud-conf.net/icdm2023/">International Conference on Data Mining (ICDM)</a></p>
-    <p>September 2024</p>
-    <p>Rende, Italy</p>
+    <p><a href="https://www.cloud-conf.net/icdm2023/">International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a></p>
+    <p>September 4th, 2024</p>
+    <p>Rende (CS), Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
