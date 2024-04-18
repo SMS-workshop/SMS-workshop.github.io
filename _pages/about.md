@@ -70,7 +70,7 @@ In particular,we aim at:
 <a href="http://sobigdata.eu/"><img src="assets/custom_images/SBD.png" style="width: 350px;"></a>
 <a href="https://pnrr.sobigdata.it/"><img src="assets/custom_images/SBDit.png" style="width: 350px;"></a>
 <img src="assets/custom_images/sbdit-head.png" style="width: 700px;">
-</div>
+
 
 ---
 <div style="width: 100%; text-align: center"> 
