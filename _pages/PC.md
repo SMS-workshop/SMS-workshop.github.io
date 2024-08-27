@@ -7,13 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-Do you want to join the program committee? Please <a href="mailto:giulio.rossetti@isti.cnr.it
-">contact us</a>!
-{: .alert .alert-warning}
 
-<hr>
-
-### (Confirmed) Program Committee
+### Program Committee
 
 <ul>
     <li>Dino Pedreschi, University of Pisa, Italy</li>
@@ -22,20 +17,18 @@ Do you want to join the program committee? Please <a href="mailto:giulio.rossett
     <li>Katherine Abramski, Università di Pisa, Italy</li>
     <li>Massimo Stella, Università di Trento, Italy</li>
     <li>Luca Pappalardo, CNR-ISTI, Italy</li>
-   <!-- <li>Matteo Cinelli, Sapienza University of Rome, Italy</li>
     <li>Alessandro Galeazzi, Università Ca Foscari, Italy</li>
-    
-    <li>Rémy Cazabet, University of Lyon, France</li>
-    <li>Matthew DeVerna, Indiana University Bloomington, US</li>
-    <li>Michele Coscia,	University of Copenhagen, Denmark</li>
-    <li>Yoed Kenett, Israel Institute of Technology, Israel</li>
-    <li>Szymon Talaga, University of Warsaw, Poland</li>
-    <li>Onur Varol, Sabanci University, Turkey</li>
-    <li>Rajesh Sharma, University of Tartu, Estonia</li>
-    <li>Matteo Magnani	University of Uppsala, Sweden</li>
-    <li>Diego R. Amancio, Universitade de Sao Paulo, Brazil</li>
-    <li>Carlos Henrique Gomes Ferreira, Universidade Federal de Ouro Preto, Brazil</li>
-    <li>Arnab K. Sarker, MIT, USs</li> -->
+    <li>Marco Minnici, ICAR-CNR, Italy</li>
+    <li>Giulio Rossetti, CNR-ISTI, Italy</li>
+    <li>Mattew DeVerna, Observatory on Social Media / Indiana University, US</li>
+    <li>Laura Pollacci, Università di Pisa, Italy</li>
+    <li>Alessia Antelmi, Università degli Studi di Torino, Italy</li>
+    <li>Francesco Cauteruccio, University of Salerno, Italy</li>
+    <li>Erica Cau, Università di Pisa, Italy</li>
+    <li>Matteo Cinelli, Sapienza University of Rome, Italy</li>
+    <li>Arnab Sarker, Massachusetts Institute of Technology, US</li>
+    <li>Corrado	Monti, Centai, Italy</li>
+    <li>Rémy Cazabet, Lyon 1, France</li>
 </ul>
 
 <hr>
