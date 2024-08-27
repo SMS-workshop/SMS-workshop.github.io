@@ -11,7 +11,7 @@ profile:
   address: >
     <p>SMS International Workshop</p>
     <p><a href="https://asonam.cpsc.ucalgary.ca/2024/">International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a></p>
-    <p>September 2-3rd, 2024</p>
+    <p>September 2nd, 2024</p>
     <p>Rende (CS), Italy</p>
 
 news: false  # includes a list of news items
