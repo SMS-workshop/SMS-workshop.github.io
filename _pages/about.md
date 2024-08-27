@@ -57,9 +57,10 @@ In particular,we aim at:
 <b>Paper submission:</b>  July 1st, 2024<br/>
 <b>Author notification:</b> July 10th, 2024 <br/>
 <b>Camera-Ready:</b> July 18th, 2024 <br/>
-<b>Registration:</b>  <br/>
-<b>Conference date:</b> September 2nd, 2024 <br/>
-<i>All times are at 11:59PM AoE</i>
+
+<b>Workshop date:</b> September 2nd, 2024 <br/>
+<b>Location:</b> Sala Stampa <br/>
+<b>Time:</b> 8:30 - 12:30 <br/>
 {: .alert .alert-warning}
 ---
 
