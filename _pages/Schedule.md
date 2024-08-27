@@ -32,17 +32,3 @@ The workshop will start at 8:30 and end at 12:30. The schedule is as follows:
 All presentations are 15 minutes long, followed by a 5-minute Q&A session.
 {: .alert .alert-info}
 
----
-
-### Keynote Speaker(s)
-
-Keynote speakers will give talks on different facets of SMS multidisciplinary research. 
-
-In particular, the SMS workshop aims at selecting two contributions focusing on: 
-- methodological/technical advances in mining and analyzing social media data, and
-- psychological/philosophical implications of social behavior modeling and analysis.
-
-
-Would you like to hear a talk on a specific topic? Do you have the perfect SMS keynote speaker in your mind?  
-<a href="mailto:giulio.rossetti@isti.cnr.it">Contact us</a>! We are open to suggestions!
-{: .alert .alert-success}
