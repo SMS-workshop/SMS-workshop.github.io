@@ -7,16 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-The workshop will be held on **September 4th, 2024**.
-
-The final schedule and invited keynote speakers will be announced as soon as the review process is completed.
-{: .alert .alert-warning}
+The workshop will be held on **September 2nd, 2024** in **Sala Stampa**.
 
 ---
 
-### Tentative Schedule
+### Schedule
 
-SMS will be roughly organized as follows:
+The workshop will start at 8:30 and end at 12:30. The schedule is as follows:
 
 | Time          | Activity                 | Paper Title                                                                                                  |
 |---------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
