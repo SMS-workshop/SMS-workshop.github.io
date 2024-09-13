@@ -17,7 +17,7 @@ The workshop will start at 8:30 and end at 12:30. The schedule is as follows:
 
 | Time          | Activity                 | Paper Title                                                                                                  |
 |---------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
-| 08:30 - 08:40 | Welcome and Introduction |                                                                                                              |
+| 08:30 - 08:40 | Welcome and Introduction | Social Media and Human Behaviors - SoBigData Research                                                        |
 | 08:40 - 09:00 | Paper 1                  | Bangla Emotion Detection Dataset With An Extended Taxonomy And Its Evaluation                                |
 | 09:00 - 09:20 | Paper 2                  | Homophily Detection in Opinion Dynamics from Reddit Discussions                                              |
 | 09:20 - 09:40 | Abstract 1               | Smile for the Camera, Act Green: Corporate Social Media's Deceptive Sustainability Charade                   |
