@@ -53,6 +53,7 @@ footer_fixed: true
 # Dimensions
 max_width: 1200px
 
+
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
@@ -111,6 +112,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+
 
 # -----------------------------------------------------------------------------
 # Blog

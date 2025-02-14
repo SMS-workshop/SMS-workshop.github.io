@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Unraveling the Impact of Social Media on Human Behavior</b>
+subtitle: <b>Unraveling the Impact of Social Media on Human Behavior - 2nd Edition (2025)</b>
 
 profile:
   align: right
@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>SMS International Workshop</p>
-    <p><a href="https://asonam.cpsc.ucalgary.ca/2024/">International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a></p>
-    <p>September 2nd, 2024</p>
-    <p>Rende (CS), Italy</p>
+    <p><a href="https://asonam.cpsc.ucalgary.ca/2025/">International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a></p>
+    <p>August 25th, 2025</p>
+    <p>Niagara Falls, Ontario, Canada</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -54,14 +54,10 @@ In particular,we aim at:
 3. Present Data-Driven Case Studies: By featuring data-driven case studies on topics such as mental health and socio-political debates, the workshop aims to provide concrete examples of how social media influences public opinion, behaviors, and mental health. These case studies will serve as a basis for discussing potential interventions and policy implications.
 
 ##### Important Dates
-<b>Paper submission:</b>  July 1st, 2024<br/>
-<b>Author notification:</b> July 10th, 2024 <br/>
-<b>Camera-Ready:</b> July 18th, 2024 <br/>
+<b>Paper submission:</b>  July 1st, 2025<br/>
+<b>Author notification:</b> July 10th, 2025 <br/>
+<b>Camera-Ready:</b> July 18th, 2025 <br/>
 
-<b>Workshop date:</b> September 2nd, 2024 <br/>
-<b>Location:</b> Sala Stampa <br/>
-<b>Time:</b> 8:30 - 12:30 <br/>
-{: .alert .alert-warning}
 ---
 
 <div style="float: none; width: 100%; text-align: center"> 
@@ -76,7 +72,7 @@ In particular,we aim at:
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
-<div style="width: 100%; padding-left: 20%; text-align: center">
+<div style="width: 100%; padding-left: 13%; text-align: center">
 
 
 
@@ -110,6 +106,14 @@ In particular,we aim at:
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://kdd.isti.cnr.it/people/failla-andrea">
+  <img src="assets/custom_images/andrea_failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/failla-andrea"><b>Andrea Failla</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
 </div>
 
 </div>
